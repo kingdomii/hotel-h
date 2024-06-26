@@ -1,7 +1,7 @@
 export const hotel = {
     name: "KingTeam Hotel",
     location: "Ciudad de Santiago, República Dominicana",
-    team: "Grupo 4",
+    team: "",
     rooms: [
         {
             picture: "/src/img/booking_1.jpg",
